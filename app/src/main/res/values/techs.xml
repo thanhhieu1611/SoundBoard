@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="techItems">
+        <item>@drawable/air_taxi</item>
+        <item>@drawable/automatic_car</item>
+        <item>@drawable/blockchain</item>
+        <item>@drawable/renewable_energy</item>
+        <item>@drawable/rocket</item>
+        <item>@drawable/lightning</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/mario</item>
+        <item>@drawable/ubuntu</item>
+    </array>
+</resources>
